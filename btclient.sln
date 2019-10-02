@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btclient", "bttest\btclient.csproj", "{2CB96283-DB4B-4F7F-A035-A642ECB44E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CB96283-DB4B-4F7F-A035-A642ECB44E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB96283-DB4B-4F7F-A035-A642ECB44E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB96283-DB4B-4F7F-A035-A642ECB44E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB96283-DB4B-4F7F-A035-A642ECB44E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7CDFA7-1681-4B3C-AE92-DE7E462D0188}
+	EndGlobalSection
+EndGlobal
