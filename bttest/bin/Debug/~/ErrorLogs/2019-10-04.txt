@@ -1,0 +1,264 @@
+异常时间：10/4/2019 1:47:06 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:19 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:38 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:40 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:40 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:41 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:41 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:42 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:42 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:43 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:43 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:44 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:44 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:44 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:45 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:45 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:46 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:46 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:47 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:47 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:47 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:48 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:48 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:49 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:50 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:50 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:51 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:51 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 1:47:51 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 2:01:43 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 2:05:53 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 2:05:59 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************
+异常时间：10/4/2019 2:06:00 PM
+异常信息：Connect failed.
+错误源：InTheHand.Net.Personal
+运行类型：System.Net.WebException
+异常函数：System.Net.WebResponse GetResponse()
+堆栈信息：   at InTheHand.Net.ObexWebRequest.GetResponse()
+   at bttest.MainForm.sendFile2Server(String fileName, String tbName) in C:\Users\I519110\source\repos\bttest\bttest\MainForm.cs:line 159
+********************************************************************************************

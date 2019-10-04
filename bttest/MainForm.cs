@@ -109,7 +109,7 @@ namespace bttest
                     dbFileService.exportDBdata2Txt(rootPath);
                 
                 sendStatusInfo.Text = "开始发送!";
-                 foreach (string tbName in DBFileService.tableNames) {
+                foreach (string tbName in DBFileService.tableNames) {
                 //string tbName = "C:\\bt\\tbbom.txt";
                     //string tbName = "tbuser";
                     //if (tbName.Equals("tbuser"))
@@ -124,7 +124,7 @@ namespace bttest
                             ErrorLog.WriteErrorMessage("导出文件不存在：" + sendFileName);
                         }
                      //}
-                 }
+                }
                 sendStatusInfo.Text = "发送完成!";
                     insertSyncDBTime();
                 buttonSend.Enabled = true;
