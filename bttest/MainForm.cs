@@ -112,7 +112,7 @@ namespace bttest
                 foreach (string tbName in DBFileService.tableNames) {
                 //string tbName = "C:\\bt\\tbbom.txt";
                     //string tbName = "tbuser";
-                    //if (tbName.Equals("tbuser"))
+                   // if (tbName.Equals("tbuser"))
                     //{
                         string sendFileName = String.Format("C:\\bt\\{0}.txt", tbName);
                         if (File.Exists(sendFileName))
@@ -123,7 +123,7 @@ namespace bttest
                         {
                             ErrorLog.WriteErrorMessage("导出文件不存在：" + sendFileName);
                         }
-                     //}
+                    // }
                 }
                 sendStatusInfo.Text = "发送完成!";
                     insertSyncDBTime();
@@ -161,8 +161,9 @@ namespace bttest
             }
             catch (System.Exception ex)
             {
+                string baseDirectory = System.Windows.Forms.Application.StartupPath;
                 ErrorLog.WriteLog(ex);
-                MessageBox.Show("发送失败！", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show(baseDirectory+"发送失败！" +ex.InnerException.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 sendStatusInfo.Text = "发送失败!";
             }
             finally

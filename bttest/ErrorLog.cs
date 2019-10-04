@@ -21,7 +21,8 @@ namespace bttest
 
                 //写入日志
                 string path = string.Empty;
-                path = "~/ErrorLogs/";
+                string baseDirectory= System.Windows.Forms.Application.StartupPath;
+                path = baseDirectory+"/ErrorLogs/";
                 //不存在则创建错误日志文件夹
                 if (!Directory.Exists(path))
                 {
@@ -58,7 +59,9 @@ namespace bttest
 
                 //写入日志
                 string path = string.Empty;
-                path ="~/ErrorLogs/";
+                string baseDirectory = System.Windows.Forms.Application.StartupPath;
+                
+                path = baseDirectory + "/ErrorLogs/";
                 //不存在则创建错误日志文件夹
                 if (!Directory.Exists(path))
                 {
